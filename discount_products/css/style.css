@@ -1,0 +1,41 @@
+/* ===========================
+ *        HEADER STYLE
+ * =========================== */
+header{
+  text-align: center;
+  padding: 1em 0;
+}
+
+/* ===========================
+ *       CONTAINER STYLE
+ * =========================== */
+.container{
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 2em;
+}
+
+/* ===========================
+ *      PRODUCT STYLE
+ * =========================== */
+.product{
+  display: inline-block;
+  width: 120px;
+  margin: 7px;
+  padding: 14px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+.product input[type="number"]{
+  width: 90px;
+}
+
+/* ===========================
+ *      BUTTON STYLE
+ * =========================== */
+button{
+  display: block;
+  width: 300px;
+  margin: 1em auto 4em auto;
+  padding: 1em;
+}

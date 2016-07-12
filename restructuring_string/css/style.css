@@ -1,0 +1,16 @@
+/* ===========================
+ *        HEADER STYLE
+ * =========================== */
+header{
+  text-align: center;
+  padding: 1em 0;
+}
+
+/* ===========================
+ *       CONTAINER STYLE
+ * =========================== */
+.container{
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 2em;
+}
